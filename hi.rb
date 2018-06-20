@@ -3,3 +3,5 @@ def my_gals
     puts "hi boobles"
   end
 end
+
+my_gals
